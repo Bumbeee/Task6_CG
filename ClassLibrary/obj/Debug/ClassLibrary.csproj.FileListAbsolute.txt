@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Task6_CG\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\User\source\repos\Task6_CG\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\User\source\repos\Task6_CG\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task6_CG\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\User\source\repos\Task6_CG\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Asus\Desktop\Task6_CG\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Asus\Desktop\Task6_CG\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Asus\Desktop\Task6_CG\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Task6_CG\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Task6_CG\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Asus\Desktop\Task6_CG\ClassLibrary\obj\Debug\ClassLibrary.pdb
